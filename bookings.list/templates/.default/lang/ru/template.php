@@ -1,0 +1,32 @@
+<?
+$MESS ['3NV_LIST_BOOKING'] = "ВСЕ ЗАКАЗЫ";
+$MESS ['3NV_LIST_BOOKING_FLIGHT'] = "Рейс:";
+$MESS ['3NV_LIST_BOOKING_DATE'] = "Дата создания:";
+$MESS ['3NV_LIST_BOOKING_DATES'] = "Даты";
+$MESS ['3NV_LIST_BOOKING_NUMBER'] = "Номер заказа:";
+$MESS ['3NV_LIST_BOOKING_FIO'] = "ФИО клиента:";
+$MESS ['3NV_LIST_BOOKING_STATUS'] = "Статус оплаты:";
+$MESS ['3NV_LIST_BOOKING_STATUS2'] = "Статус оплаты";
+$MESS ['3NV_RESERVATION_PAYED'] = "Оплачен";
+$MESS ['3NV_RESERVATION_PART_PAYED'] = "Частично оплачен";
+$MESS ['3NV_RESERVATION_NOT_PAYED'] = "Не оплачен";
+$MESS ['3NV_LIST_BOOKING_VIEW'] = "Просмотреть";
+$MESS ['3NV_LIST_BOOKING_VOUCHER'] = "Ваучер";
+$MESS ['3NV_LIST_BOOKING_REPORT'] = "Отчет агента";
+$MESS ['3NV_LIST_BOOKING_CREATED'] = "Заказ создан";
+$MESS ['3NV_LIST_BOOKING_NIGHT'] = " ночей";
+$MESS ['3NV_LIST_BOOKING_GUESTS'] = "Пассажиры";
+$MESS ['3NV_LIST_BOOKING_GUESTS2'] = "Пассажиров: ";
+$MESS ['3NV_LIST_BOOKING_CABIN'] = "№ каюты: ";
+$MESS ['3NV_LIST_BOOKING_PRICE'] = "Стоимость";
+$MESS ['3NV_LIST_BOOKING_RUB'] = " руб.";
+$MESS ['3NV_LIST_BOOKING_REMAINS_PAY'] = "Осталось оплатить";
+$MESS ['3NV_LIST_BOOKING_RESULT_FILTER'] = "Результаты фильтра:";
+$MESS ['3NV_LIST_BOOKING_SUM_ALL'] = "Сумма по всем заказам: ";
+$MESS ['3NV_LIST_BOOKING_COMISSION_FEE'] = "Начисленное комиссионное вознаграждение: ";
+$MESS ['3NV_LIST_BOOKING_SUM_SELECTED'] = "Сумма по выбранным заказам: ";
+$MESS ['3NV_LIST_BOOKING_PAID_ORDERS'] = "Оплаченных заказов: ";
+$MESS ['3NV_LIST_BOOKING_CANCEL_ORDERS'] = "Отмененных заказов: ";
+$MESS ['3NV_LIST_BOOKING_PART_ORDERS'] = "Частично оплаченных заказов: ";
+$MESS ['3NV_LIST_BOOKING_SUMS'] = " на сумму ";
+?>
